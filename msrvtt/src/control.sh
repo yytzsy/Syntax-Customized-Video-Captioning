@@ -1,0 +1,1 @@
+python control_eval.py --recover_opt ./save/opt_info.json --saved_model ./save/model_150.pth --batch_size 100 --gpu 0
